@@ -5,11 +5,8 @@ way to access books through a book-exchange mobile app.
 
 <p float="left">
   <img src="https://drive.google.com/file/d/17rBUiHzj0mruDTL0Lk0f6260Hi7Y7oBm/view?usp=sharing" width=150>
-  <img src="https://i.imgur.com/APjn9xH.png" width=150>
-  <img src="https://i.imgur.com/Vvsg9XW.png" width=150>
-  <img src="https://imgur.com/fTFKEAU.png" width=150>
-  <img src="https://imgur.com/OsmxYTu.png" width=150>
-  <img src="https://imgur.com/JI6ExuY.png" width=150>
+  <img src="https://imgur.com/a/pb6UkGw.png" width=150>
+  <img src="https://imgur.com/a/pb6UkGw" width=150>
 </p>
 
 ## Getting Started
