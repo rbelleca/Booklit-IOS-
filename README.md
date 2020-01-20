@@ -1,4 +1,4 @@
-# booklit
+# Booklit
 
 A book exchnage app called as booklit
 
