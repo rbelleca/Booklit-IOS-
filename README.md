@@ -5,6 +5,7 @@ way to access books through a book-exchange mobile app.
 
 <p float="left">
   <img src="https://imgur.com/a/pb6UkGw.png" width=150>
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/pb6UkGw"><a href="//imgur.com/a/pb6UkGw">Booklit: a book-exchange app</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 
 ## Getting Started
