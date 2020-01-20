@@ -9,7 +9,7 @@ way to access books through a book-exchange mobile app.
   <img src="https://imgur.com/a/pb6UkGw" width=150>
 </p>
 
-##Image available at: "https://imgur.com/a/pb6UkGw"
+## Image available at: "https://imgur.com/a/pb6UkGw"
 
 ## Getting Started
 
