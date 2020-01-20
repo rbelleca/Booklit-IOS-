@@ -4,7 +4,7 @@ way to access books through a book-exchange mobile app.
 - developed and designed with my partner @Srivats
 
 <p float="left">
-  <img src="https://imgur.com/a/pb6UkGw" width=150>
+  <img src="https://imgur.com/a/pb6UkGw.png" width=150>
 </p>
 
 
