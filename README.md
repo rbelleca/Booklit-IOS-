@@ -1,6 +1,7 @@
 # Booklit
-
-A book exchnage app called as booklit
+- a multi-platform mobile applications project that aims to provide for students a more convenient
+way to access books through a book-exchange mobile app.
+- developed and designed with my partner @Srivats
 
 ## Getting Started
 
